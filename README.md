@@ -77,4 +77,4 @@ You can deploy this on platforms like **Vercel**, **Render**, or **Replit** for 
 
 ## 📄 License
 
-This project is licensed under the License – see the [LICENSE](https://github.com/your-username/number-tracker-proxy/blob/main/LICENSE) file for details.
+This project is licensed under the License – see the [LICENSE](https://github.com/NotFlexCoder/NotFlexCoder/blob/main/LICENSE) file for details.

@@ -1,5 +1,5 @@
 {
-  "name": "phone-number-data-api",
+  "name": "phone-number-tracker-api",
   "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
